@@ -4,7 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     ㅇㄴㄹㅇㅈㄹㄴ
+     <div className='black-nav'>
+       hellooooooo
+     </div>
+
     </div>
   );
 }
